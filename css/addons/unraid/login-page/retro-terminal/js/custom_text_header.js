@@ -7,6 +7,7 @@
 
 let custom_text_header = `
 <div class="custom-text-header"> <pre>
+
   _____                                    _   ___  
  |  __ \                                  | | |__ \ 
  | |__) |_ _ ___ _____      _____  _ __ __| |    ) |
